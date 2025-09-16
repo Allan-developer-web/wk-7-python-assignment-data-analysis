@@ -1,6 +1,6 @@
 # wk-7-python-assignment-data-analysis
 
-📊 Data Analysis and Visualization Project
+## 📊 Data Analysis and Visualization Project
 📌 Overview
 
 This project demonstrates how to:
@@ -30,7 +30,7 @@ project-folder/
 │── iris_analysis_csv.py     # Python script version
 │── README.md                # Project documentation
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 Make sure you have the following installed:
 
@@ -42,7 +42,7 @@ Required Python libraries:
 
 pip install pandas numpy matplotlib seaborn
 
-🚀 How to Run
+## 🚀 How to Run
 Option 1: Run the Jupyter Notebook
 
 Open a terminal and launch Jupyter Notebook:
@@ -62,8 +62,8 @@ Run the script:
 
 python iris_analysis_csv.py
 
-📊 Analysis Steps
-1. Data Loading & Cleaning
+## 📊 Analysis Steps
+#### 1. Data Loading & Cleaning
 
 Load dataset from iris.csv.
 
@@ -73,13 +73,13 @@ Check data types, structure, and missing values.
 
 Drop missing values if present.
 
-2. Basic Data Analysis
+##### 2. Basic Data Analysis
 
 Compute descriptive statistics (mean, std, min, max).
 
 Group by species and calculate average values.
 
-3. Data Visualization
+##### 3. Data Visualization
 
 Four different plots were created:
 
@@ -93,7 +93,7 @@ Scatter Plot → Sepal length vs Petal length (colored by species).
 
 Each plot includes titles, axis labels, and legends for clarity.
 
-4. Findings
+#### 4. Findings
 
 Setosa: Smallest petal dimensions.
 
@@ -103,7 +103,7 @@ Versicolor: Intermediate values.
 
 Petal length is a strong distinguishing feature among species.
 
-📌 Key Insights
+## 📌 Key Insights
 
 The dataset is clean and well-structured.
 
